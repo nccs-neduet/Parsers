@@ -1,6 +1,8 @@
 # Parsers
 Parsers for different tools
 
-1) Parsing flows produced with CICFlowMeter(written in Java) into python. 
+*Parsing flows produced with CICFlowMeter(written in Java) to python. 
 
-  You can add the FlowMonitorPane.java present in the CICFlowMeter/src/main/java/cic/cs/unb/ca/flow/ui/ to your own       CICFlowMeter folder
+1.) You can add the FlowMonitorPane.java present in the CICFlowMeter/src/main/java/cic/cs/unb/ca/flow/ui/ to your own CICFlowMeter folder.
+
+2.) Make sure that you have the Example.py being ran as well for receiving the flows.
